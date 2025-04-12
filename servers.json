@@ -2,7 +2,7 @@
   {
     "ip": "94.198.51.12",
     "port": 2249,
-    "x2": "",
+    "x2": "true",
     "name": "1",
     "online": 2,
     "maxonline": 1000
@@ -20,7 +20,7 @@
     "port": 2249,
     "x2": "true",
     "name": "3",
-    "online": 220,
+    "online": 900,
     "maxonline": 1000
   }
 ]
